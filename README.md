@@ -1,4 +1,4 @@
-# IntroduccioGitGitHub
+# Introduccio Git GitHub Avançat
 Pera alumnes de Entorns de Desenvolupament per practicar Git i GitHub
 
 # Pràctica – mdBook
